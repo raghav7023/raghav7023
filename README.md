@@ -14,7 +14,6 @@
 
 **🎓 B.Tech Electronics & Communication Engineering (ECE)**
 
-**🏛️ JECRC | Batch 2027 | India 🇮🇳**
 
 <br/>
 
