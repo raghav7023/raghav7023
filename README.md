@@ -1,38 +1,40 @@
-
-<!-- ==================== NEON CYBERPUNK TOP BANNER ==================== -->
+<!-- ==================== ROYAL HOLOGRAPHIC HERO BANNER ==================== -->
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Raghav.dev Neon Banner" />
+  <img src="assets/banner.svg" width="100%" alt="Raghav.dev Holographic Banner" />
 </div>
 
-<!-- ==================== HERO SECTION (SIDE-BY-SIDE LIKE MOCKUP) ==================== -->
+<br/>
+
+<!-- ==================== HERO PROFILE & BIO CARD ==================== -->
 <table align="center">
   <tr>
-    <td align="center" width="240">
-      <img src="assets/1790668637191.jpeg" width="185" alt="Raghav Sharma" />
+    <td align="center" width="230">
+      <img src="assets/1790668637191.jpeg" width="180" alt="Raghav Sharma" />
       <br/><br/>
-      <a href="https://github.com/raghav7023"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00F7FF"/></a>
-      <a href="https://linkedin.com/in/raghavsharma1708"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00F7FF"/></a>
-      <a href="mailto:raghav7023@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=C084FC"/></a>
+      <a href="https://github.com/raghav7023"><img src="https://img.shields.io/badge/GitHub-0B0914?style=flat-square&logo=github&logoColor=38BDF8"/></a>
+      <a href="https://linkedin.com/in/raghavsharma1708"><img src="https://img.shields.io/badge/LinkedIn-0B0914?style=flat-square&logo=linkedin&logoColor=E879F9"/></a>
+      <a href="mailto:raghav7023@gmail.com"><img src="https://img.shields.io/badge/Email-0B0914?style=flat-square&logo=gmail&logoColor=F472B6"/></a>
     </td>
-    <td width="580" valign="middle">
-      <img src="https://img.shields.io/badge/%3E_whoami-1E1B4B?style=for-the-badge&logo=gnubash&logoColor=00F7FF" />
+    <td width="590" valign="middle">
+      <img src="https://img.shields.io/badge/✦_WHOAMI_//_DEVELOPER_PROFILE-1C1633?style=for-the-badge&logo=gnubash&logoColor=E879F9" />
       <br/><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=2500&pause=1000&color=00F7FF&vCenter=true&width=520&height=50&lines=Raghav.dev;Full+Stack+Developer;Bug+Bounty+Explorer" alt="Raghav.dev" />
-      <br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=800&color=C084FC&vCenter=true&width=540&height=30&lines=FULL+STACK+MERN+DEVELOPER+%7C+CYBERSECURITY+ENTHUSIAST;%3E+Build+%3E+Break+%3E+Learn+%3E+Secure" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/🎓_B.Tech_(ECE)-0F172A?style=for-the-badge&color=0F172A&labelColor=3B0764" />
-      <img src="https://img.shields.io/badge/📅_Batch_2027-0F172A?style=for-the-badge&color=0F172A&labelColor=3B0764" />
-      <img src="https://img.shields.io/badge/📍_India_🇮🇳-0F172A?style=for-the-badge&color=0F172A&labelColor=0E7490" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2500&pause=900&color=E879F9&vCenter=true&width=550&height=32&lines=Full+Stack+MERN+Developer+%7C+Cybersecurity+Enthusiast;Bug+Bounty+Explorer+%7C+Competitive+Programmer+(C%2B%2B);%3E+Build+%E2%9C%A6+Break+%E2%9C%A6+Learn+%E2%9C%A6+Secure" />
+      <p>
+        An <b>ECE undergrad</b> passionate about architecting scalable full-stack web applications, exploring <b>offensive cybersecurity</b>, and solving <b>real-world problems</b> with clean, resilient code.
+      </p>
+      <img src="https://img.shields.io/badge/🎓_B.Tech_(ECE)-0B0914?style=for-the-badge&labelColor=2E1065" />
+      <img src="https://img.shields.io/badge/🏛️_JECRC_Jaipur-0B0914?style=for-the-badge&labelColor=0C4A6E" />
+      <img src="https://img.shields.io/badge/📅_Batch_2027-0B0914?style=for-the-badge&labelColor=2E1065" />
+      <img src="https://img.shields.io/badge/📍_India_🇮🇳-0B0914?style=for-the-badge&labelColor=0C4A6E" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ==================== ABOUT ME ==================== -->
+<!-- ==================== ABOUT HIGHLIGHTS ==================== -->
 <div align="center">
-  <img src="https://img.shields.io/badge/👤_ABOUT_ME-0B071E?style=for-the-badge&labelColor=3B0764" />
+  <img src="https://img.shields.io/badge/✦_CORE_FOCUS_%26_PHILOSOPHY-151126?style=for-the-badge&labelColor=86198F" />
 </div>
 
 <br/>
@@ -40,18 +42,16 @@
 <table align="center">
   <tr>
     <td width="410" valign="middle">
-      <p>
-        An <b>ECE undergrad</b> with a passion for building scalable web applications, exploring <b>cybersecurity</b>, and solving <b>real-world problems</b> with clean, resilient code.
-      </p>
       <blockquote>
         <i>"Dream in <b>Code</b>. Think Like a <b>Hacker</b>. Build Like an <b>Engineer</b>."</i>
       </blockquote>
+      <sub>Currently diving deep into web application security, vulnerability research, and scalable MERN architectures.</sub>
     </td>
     <td width="410" valign="middle">
-      <img src="https://img.shields.io/badge/%3C%2F%3E-00F7FF?style=flat-square&logoColor=000" /> <b>Full Stack MERN Developer</b><br/><br/>
-      <img src="https://img.shields.io/badge/🛡️-C084FC?style=flat-square" /> <b>Cybersecurity & Bug Bounty Explorer</b><br/><br/>
-      <img src="https://img.shields.io/badge/🚀-00F7FF?style=flat-square" /> <b>Building Real-World Full-Stack Apps</b><br/><br/>
-      <img src="https://img.shields.io/badge/🎯-C084FC?style=flat-square" /> <b>DSA & Problem Solving (C++)</b>
+      <img src="https://img.shields.io/badge/%3C%2F%3E-38BDF8?style=flat-square" /> <b>Full Stack MERN Developer</b><br/><br/>
+      <img src="https://img.shields.io/badge/🛡️-E879F9?style=flat-square" /> <b>Cybersecurity & Bug Bounty Explorer</b><br/><br/>
+      <img src="https://img.shields.io/badge/🚀-F472B6?style=flat-square" /> <b>Building Real-World Full-Stack Apps</b><br/><br/>
+      <img src="https://img.shields.io/badge/🎯-38BDF8?style=flat-square" /> <b>DSA & Problem Solving (C++)</b>
     </td>
   </tr>
 </table>
@@ -60,7 +60,7 @@
 
 <!-- ==================== TECH STACK ==================== -->
 <div align="center">
-  <img src="https://img.shields.io/badge/⚡_TECH_STACK_%26_SECURITY_TOOLKIT-0B071E?style=for-the-badge&labelColor=0E7490" />
+  <img src="https://img.shields.io/badge/✦_TECH_STACK_%26_SECURITY_TOOLKIT-151126?style=for-the-badge&labelColor=0369A1" />
 </div>
 
 <br/>
@@ -110,7 +110,7 @@
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀_FEATURED_PROJECTS_%7C_MERN_STACK-0B071E?style=for-the-badge&labelColor=3B0764" />
+  <img src="https://img.shields.io/badge/✦_FEATURED_PROJECTS_%7C_MERN_STACK-151126?style=for-the-badge&labelColor=86198F" />
 </div>
 
 <br/>
@@ -128,13 +128,13 @@
         <li>✔️ Admin Dashboard</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00F7FF"/>
-        <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933"/>
-        <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248"/>
-        <img src="https://img.shields.io/badge/Razorpay-0D1117?style=flat-square&logo=razorpay&logoColor=3395FF"/>
+        <img src="https://img.shields.io/badge/React-0B0914?style=flat-square&logo=react&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Node.js-0B0914?style=flat-square&logo=nodedotjs&logoColor=34D399"/>
+        <img src="https://img.shields.io/badge/Express-0B0914?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-0B0914?style=flat-square&logo=mongodb&logoColor=34D399"/>
+        <img src="https://img.shields.io/badge/Razorpay-0B0914?style=flat-square&logo=razorpay&logoColor=38BDF8"/>
       </p>
-      <a href="https://github.com/raghav7023"><img src="https://img.shields.io/badge/View_Project_↗-7C3AED?style=for-the-badge"/></a>
+      <a href="https://github.com/raghav7023"><img src="https://img.shields.io/badge/View_Project_↗-A21CAF?style=for-the-badge"/></a>
     </td>
     <td width="410" valign="top">
       <h3>🤖 AI Resume Builder &nbsp;<code>AI Powered</code></h3>
@@ -147,13 +147,13 @@
         <li>✔️ Modern & Interactive UI</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00F7FF"/>
-        <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933"/>
-        <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248"/>
-        <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=C084FC"/>
-        <img src="https://img.shields.io/badge/jsPDF-0D1117?style=flat-square&logo=adobeacrobatreader&logoColor=F87171"/>
+        <img src="https://img.shields.io/badge/React-0B0914?style=flat-square&logo=react&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Node.js-0B0914?style=flat-square&logo=nodedotjs&logoColor=34D399"/>
+        <img src="https://img.shields.io/badge/MongoDB-0B0914?style=flat-square&logo=mongodb&logoColor=34D399"/>
+        <img src="https://img.shields.io/badge/Gemini-0B0914?style=flat-square&logo=googlegemini&logoColor=E879F9"/>
+        <img src="https://img.shields.io/badge/jsPDF-0B0914?style=flat-square&logo=adobeacrobatreader&logoColor=F472B6"/>
       </p>
-      <a href="https://github.com/raghav7023"><img src="https://img.shields.io/badge/View_Project_↗-00B4D8?style=for-the-badge"/></a>
+      <a href="https://github.com/raghav7023"><img src="https://img.shields.io/badge/View_Project_↗-0284C7?style=for-the-badge"/></a>
     </td>
   </tr>
 </table>
@@ -162,7 +162,7 @@
 
 <!-- ==================== GITHUB ANALYTICS & CURRENTLY LEARNING ==================== -->
 <div align="center">
-  <img src="https://img.shields.io/badge/📊_GITHUB_ANALYTICS_%26_LEARNING-0B071E?style=for-the-badge&labelColor=0E7490" />
+  <img src="https://img.shields.io/badge/✦_GITHUB_ANALYTICS_%26_LEARNING-151126?style=for-the-badge&labelColor=0369A1" />
 </div>
 
 <br/>
@@ -170,10 +170,10 @@
 <table align="center">
   <tr>
     <td align="center" width="520">
-      <img src="https://streak-stats.demolab.com?user=raghav7023&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=C084FC&currStreakLabel=00F7FF" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=raghav7023&theme=tokyonight&hide_border=true&background=0B0914&ring=E879F9&fire=38BDF8&currStreakLabel=E879F9" alt="GitHub Streak" />
       <br/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raghav7023&theme=tokyonight" height="150" alt="Top Languages" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raghav7023&theme=tokyonight" height="150" alt="GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raghav7023&theme=tokyonight" height="145" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raghav7023&theme=tokyonight" height="145" alt="GitHub Stats" />
     </td>
     <td width="300" valign="middle">
       <h4>📖 Currently Learning</h4>
@@ -197,12 +197,14 @@
 
 <br/>
 
-<!-- ==================== FOOTER & CONNECT ==================== -->
+<!-- ==================== LET'S CONNECT FOOTER ==================== -->
 <div align="center">
-  <a href="https://github.com/raghav7023"><img src="https://img.shields.io/badge/GitHub-0B071E?style=for-the-badge&logo=github&logoColor=00F7FF"/></a>
-  <a href="https://linkedin.com/in/raghavsharma1708"><img src="https://img.shields.io/badge/LinkedIn-0B071E?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/></a>
-  <a href="mailto:raghav7023@gmail.com"><img src="https://img.shields.io/badge/Email-0B071E?style=for-the-badge&logo=gmail&logoColor=C084FC"/></a>
-  <a href="#resume"><img src="https://img.shields.io/badge/Resume-3B0764?style=for-the-badge&logo=readthedocs&logoColor=00F7FF"/></a>
+  <img src="https://img.shields.io/badge/✦_LET'S_CONNECT-151126?style=for-the-badge&labelColor=86198F" />
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00F7FF,40:0E7490,80:3B0764,100:0B071E&section=footer" width="100%" />
+  <a href="https://github.com/raghav7023"><img src="https://img.shields.io/badge/GitHub-0B0914?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
+  <a href="https://linkedin.com/in/raghavsharma1708"><img src="https://img.shields.io/badge/LinkedIn-0B0914?style=for-the-badge&logo=linkedin&logoColor=E879F9"/></a>
+  <a href="mailto:raghav7023@gmail.com"><img src="https://img.shields.io/badge/Email-0B0914?style=for-the-badge&logo=gmail&logoColor=F472B6"/></a>
+  <a href="#resume"><img src="https://img.shields.io/badge/Resume-86198F?style=for-the-badge&logo=readthedocs&logoColor=FFFFFF"/></a>
+  <br/><br/>
+  <sub>✦ Crafted with code & curiosity by <b>Raghav Sharma</b> ✦</sub>
 </div>
