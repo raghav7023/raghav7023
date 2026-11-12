@@ -1,27 +1,150 @@
-<h1 align="center">Hi 👋, I'm Raghav Sharma</h1>
-<h3 align="center">A full Stack Developer from India Creating my own project which help people to connect ....</h3>
+ 
+<div align="center">
 
-- 🔭 I’m currently working on [artstore e-commerce website](https://github.com/raghav7023/artstore-)
+# 👋 Hey, I'm Raghav Sharma
 
-- 🌱 I’m currently learning **Web Application Security, Bug Bounty Hunting, Penetration Testing, and Advanced DSA**
+### Full Stack Developer | MERN Stack | Cybersecurity Enthusiast
 
-- 👯 I'm currently working on [Ai-Resume_Builder](https://github.com/raghav7023/ai-resume-builder)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;Exploring+Web+Application+Security;Learning+Bug+Bounty+%26+Penetration+Testing;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/raghav7023](https://github.com/raghav7023)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:00F7FF&height=120&section=header" width="100%" />
 
-- 🚀 Featured Project [Artstore – MERN Stack E-commerce Platform https://github.com/raghav7023/artstore-](Artstore – MERN Stack E-commerce Platform https://github.com/raghav7023/artstore-)
+[![GitHub](https://img.shields.io/badge/GitHub-raghav7023-181717?style=for-the-badge&logo=github)](https://github.com/raghav7023)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/raghavsharma1708)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghav7023@gmail.com)
 
-- 💬 Ask me about **MERN Stack Development, React.js, Node.js, Express.js, MongoDB, C++, and REST APIs**
+</div>
 
-- 📫 How to reach me **raghav7023@gmail.com**
+---
 
-- ⚡ Fun fact **I love building applications, exploring new technologies, and finding bugs to understand how things work!**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raghavsharma1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghavsharma1708" height="30" width="40" /></a>
-<a href="https://fb.com/raghav sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raghav sharma" height="30" width="40" /></a>
+- 🎓 Engineering student from India.
+- 💻 Passionate about Full Stack Development and building real-world applications.
+- 🔭 Currently working on **[Artstore – MERN Stack E-commerce](https://github.com/raghav7023/artstore-)**.
+- 🌱 Learning **Web Application Security, Bug Bounty Hunting, Penetration Testing and Advanced DSA**.
+- 🤖 Building an **[AI Resume Builder](https://github.com/raghav7023/ai-resume-builder)**.
+- 🔐 Exploring ethical hacking, security testing and vulnerability research.
+- 💬 Ask me about MERN Stack, React.js, Node.js, Express.js, MongoDB, C++ and REST APIs.
+- 📫 Reach me at **raghav7023@gmail.com**.
+- ⚡ Fun fact: I love building applications, exploring new technologies and finding bugs to understand how things work.
+
+---
+
+## 💻 Tech Stack & Tools
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+</p>
+
+### Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+</p>
+
+### Cybersecurity & Bug Bounty
+<p>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛍️ Artstore – E-commerce Platform
+
+A full-stack MERN e-commerce application with product management, shopping cart and payment integration.
+
+**Tech:** React, Node.js, Express, MongoDB, Razorpay.
+
+[🔗 View Repository](https://github.com/raghav7023/artstore-)
+
+</td>
+<td width="50%">
+
+### 🤖 AI Resume Builder
+
+An AI-powered resume-building project designed to help users create professional resumes.
+
+**Tech:** MERN Stack, Gemini API, JavaScript.
+
+[🔗 View Repository](https://github.com/raghav7023/ai-resume-builder)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raghav7023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav7023&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=raghav7023&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+
+</div>
+
+---
+
+## 📄 Resume
+
+<div align="center">
+
+Interested in my technical background and projects?
+
+<a href="./Raghav_Sharma_Resume.pdf">
+<img src="https://img.shields.io/badge/Download_My_Resume-00D4FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in connecting with developers, exploring new technologies and collaborating on interesting projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghav_Sharma-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/raghavsharma1708)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-black?style=for-the-badge&logo=github)](https://github.com/raghav7023)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:raghav7023@gmail.com)
+
+### 💡 "Code. Learn. Build. Break. Secure. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0077FF,100:090979&height=110&section=footer" width="100%" />
+
+</div>
