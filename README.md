@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="assets/raghav-profile.jpg" width="210" style="border-radius:50%; border:4px solid #00F7FF;" alt="Raghav Sharma" />
+<img src="assets/1790668637191.jpeg" width="210" style="border-radius:50%; border:4px solid #00F7FF;" alt="Raghav Sharma" />
 
 <br/>
 
