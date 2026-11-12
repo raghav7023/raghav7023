@@ -1,12 +1,24 @@
 <div align="center">
 
-<img src="assets/1790668637191.jpeg" width="190" alt="Raghav Sharma"/>
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&text=Raghav.dev&fontSize=75&fontColor=00F7FF&fontAlignY=45&color=0:0D0B21,50:3B0764,100:00F7FF&animation=twinkling&stroke=00F7FF&strokeWidth=2&desc=FULL%20STACK%20DEVELOPER%20%7C%20CYBERSECURITY%20ENTHUSIAST&descSize=16&descAlignY=68" width="100%"/>
+<!-- Top Cyber Wave Banner with Deep Navy/Purple Gradient & Cyan Glow -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B071E,50:3B0764,100:00F7FF&section=header&reversal=true" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=45&lines=%3E+whoami+%7C+Raghav.dev;%3E+Build+%3E+Break+%3E+Learn+%3E+Secure;FULL+STACK+MERN+DEVELOPER+%7C+BUG+BOUNTY+EXPLORER" />
+<!-- > whoami Terminal Pill Badge -->
+<img src="https://img.shields.io/badge/%3E_whoami-0B071E?style=for-the-badge&logo=gnubash&logoColor=00F7FF&color=0B071E" height="32"/>
 
 <br/>
 
+<!-- Two-Tone Hero Title: White "Raghav" + Electric Cyan ".dev" -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=58&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=310&height=75&lines=Raghav" alt="Raghav" /><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=58&duration=1&pause=100000&color=00F7FF&center=true&vCenter=true&width=165&height=75&lines=.dev" alt=".dev" />
+</h1>
+
+<!-- Subtitle & Animated Terminal Command Bar -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=E2E8F0&center=true&vCenter=true&width=780&height=35&lines=FULL+STACK+DEVELOPER+%7C+CYBERSECURITY+ENTHUSIAST;%3E+Build+%3E+Break+%3E+Learn+%3E+Secure" />
+
+<br/>
+
+<img src="assets/1790668637191.jpeg" width="190" alt="Raghav Sharma"/>
 
 <br/><br/>
 
@@ -20,6 +32,9 @@
 </table>
 
 </div>
+
+
+
 
 ---
 
