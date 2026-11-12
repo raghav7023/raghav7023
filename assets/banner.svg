@@ -1,79 +1,65 @@
 <svg width="1000" height="230" viewBox="0 0 1000 230" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Deep Cyber Background Gradient -->
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="1000" y2="230" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#090518" />
-      <stop offset="50%" stop-color="#1E0B3B" />
-      <stop offset="100%" stop-color="#071E2E" />
+    <linearGradient id="holoBg" x1="0" y1="0" x2="1000" y2="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B0914" />
+      <stop offset="50%" stop-color="#151126" />
+      <stop offset="100%" stop-color="#0C1424" />
     </linearGradient>
-
-    <!-- Neon Border Gradient (Magenta -> Violet -> Cyan) -->
-    <linearGradient id="borderGrad" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#FF0080" />
-      <stop offset="50%" stop-color="#A855F7" />
-      <stop offset="100%" stop-color="#00F7FF" />
+    <linearGradient id="holoStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="33%" stop-color="#E879F9" />
+      <stop offset="66%" stop-color="#F472B6" />
+      <stop offset="100%" stop-color="#38BDF8" />
     </linearGradient>
-
-    <!-- Neon Cyan Glow Filter -->
-    <filter id="cyanGlow" x="-20%" y="-20%" width="140%" height="140%">
+    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+    <filter id="holoGlow" x="-25%" y="-25%" width="150%" height="150%">
       <feGaussianBlur stdDeviation="4" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
-
-    <!-- Neon Pink Glow Filter -->
-    <filter id="pinkGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-
-    <!-- Subtle Cyber Grid Pattern -->
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#00F7FF" stroke-opacity="0.06" stroke-width="1" />
-    </pattern>
+    <clipPath id="holoClip">
+      <rect x="4" y="4" width="992" height="222" rx="22" />
+    </clipPath>
   </defs>
 
-  <!-- Main Card Base -->
-  <rect x="4" y="4" width="992" height="222" rx="18" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="3" />
-  <rect x="4" y="4" width="992" height="222" rx="18" fill="url(#grid)" />
+  <g clip-path="url(#holoClip)">
+    <rect x="4" y="4" width="992" height="222" rx="22" fill="url(#holoBg)" />
 
-  <!-- Ambient Neon Orbs -->
-  <circle cx="140" cy="40" r="110" fill="#FF0080" fill-opacity="0.12" />
-  <circle cx="860" cy="190" r="130" fill="#00F7FF" fill-opacity="0.12" />
+    <!-- Diagonal Holographic Foil Shimmer -->
+    <polygon points="-300,0 -120,0 -240,230 -420,230" fill="url(#shimmer)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 1500,0" dur="5s" repeatCount="indefinite" />
+    </polygon>
+  </g>
 
-  <!-- Top Terminal Pill: > whoami -->
-  <rect x="420" y="24" width="160" height="28" rx="14" fill="#13092B" stroke="#A855F7" stroke-width="1.5" />
-  <text x="500" y="43" text-anchor="middle" font-family="&#39;Courier New&#39;, monospace" font-weight="bold" font-size="14" fill="#00F7FF">
-    > whoami
+  <rect x="4" y="4" width="992" height="222" rx="22" fill="none" stroke="url(#holoStroke)" stroke-width="3" />
+
+  <!-- Top Pill -->
+  <rect x="405" y="25" width="190" height="26" rx="13" fill="#1C1633" stroke="url(#holoStroke)" stroke-width="1.2" />
+  <text x="500" y="42" text-anchor="middle" font-family="&#39;Segoe UI&#39;, sans-serif" font-weight="700" font-size="12" fill="#F0ABFC" letter-spacing="2">
+    ✦ RAGHAV SHARMA ✦
   </text>
 
-  <!-- Hero Title: White "Raghav" + Glowing Cyan ".dev" -->
-  <text x="485" y="115" text-anchor="end" font-family="&#39;Segoe UI&#39;, Impact, sans-serif" font-weight="900" font-style="italic" font-size="68" fill="#FFFFFF" letter-spacing="2">
+  <!-- Hero Title -->
+  <text x="492" y="116" text-anchor="end" font-family="&#39;Segoe UI&#39;, Arial, sans-serif" font-weight="900" font-size="66" fill="#FFFFFF" letter-spacing="1">
     Raghav
   </text>
-  <text x="488" y="115" text-anchor="start" font-family="&#39;Segoe UI&#39;, Impact, sans-serif" font-weight="900" font-style="italic" font-size="68" fill="#00F7FF" filter="url(#cyanGlow)" letter-spacing="2">
+  <text x="495" y="116" text-anchor="start" font-family="&#39;Segoe UI&#39;, Arial, sans-serif" font-weight="900" font-size="66" fill="#E879F9" filter="url(#holoGlow)" letter-spacing="1">
     .dev
   </text>
 
-  <!-- Code Icon Box Next to Title -->
-  <rect x="655" y="68" width="54" height="44" rx="10" fill="#13092B" stroke="#00F7FF" stroke-width="2" filter="url(#cyanGlow)" />
-  <text x="682" y="97" text-anchor="middle" font-family="&#39;Courier New&#39;, monospace" font-weight="bold" font-size="22" fill="#FF0080">
-    />
-  </text>
-
   <!-- Subtitle -->
-  <text x="500" y="152" text-anchor="middle" font-family="&#39;Segoe UI&#39;, Arial, sans-serif" font-weight="700" font-size="16" fill="#E2E8F0" letter-spacing="3">
-    FULL STACK DEVELOPER  |  CYBERSECURITY ENTHUSIAST
+  <text x="500" y="152" text-anchor="middle" font-family="&#39;Segoe UI&#39;, Arial, sans-serif" font-weight="600" font-size="16" fill="#BAE6FD" letter-spacing="2.5">
+    FULL STACK MERN DEVELOPER  |  CYBERSECURITY ENTHUSIAST
   </text>
 
-  <!-- Bottom Neon Command Pill -->
-  <rect x="270" y="172" width="460" height="34" rx="17" fill="#0B061D" stroke="url(#borderGrad)" stroke-width="1.5" />
-  <text x="500" y="194" text-anchor="middle" font-family="&#39;Courier New&#39;, monospace" font-weight="bold" font-size="15" fill="#00F7FF">
-    > Build   > Break   > Learn   > Secure
+  <!-- Bottom Pill -->
+  <text x="500" y="194" text-anchor="middle" font-family="&#39;Courier New&#39;, monospace" font-weight="bold" font-size="14" fill="#F5D0FE" letter-spacing="2.5">
+    BUILD  ✦  BREAK  ✦  LEARN  ✦  SECURE
   </text>
 </svg>
