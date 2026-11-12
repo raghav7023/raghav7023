@@ -169,8 +169,10 @@
 <table align="center">
   <tr>
     <td align="center" width="520">
-      <img src="https://github-readme-stats.vercel.app/api?username=raghav7023&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=C084FC&text_color=E2E8F0" height="155" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav7023&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=E2E8F0" height="155" />
+      <img src="https://streak-stats.demolab.com?user=raghav7023&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=C084FC&currStreakLabel=00F7FF" alt="GitHub Streak" />
+      <br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raghav7023&theme=tokyonight" height="150" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raghav7023&theme=tokyonight" height="150" alt="GitHub Stats" />
     </td>
     <td width="300" valign="middle">
       <h4>📖 Currently Learning</h4>
