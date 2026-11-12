@@ -1,12 +1,12 @@
 <div align="center">
 
+<img src="assets/1790668637191.jpeg" width="190" alt="Raghav Sharma"/>
 <img src="https://capsule-render.vercel.app/api?type=venom&height=230&text=Raghav.dev&fontSize=75&fontColor=00F7FF&fontAlignY=45&color=0:0D0B21,50:3B0764,100:00F7FF&animation=twinkling&stroke=00F7FF&strokeWidth=2&desc=FULL%20STACK%20DEVELOPER%20%7C%20CYBERSECURITY%20ENTHUSIAST&descSize=16&descAlignY=68" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=45&lines=%3E+whoami+%7C+Raghav.dev;%3E+Build+%3E+Break+%3E+Learn+%3E+Secure;FULL+STACK+MERN+DEVELOPER+%7C+BUG+BOUNTY+EXPLORER" />
 
 <br/>
 
-<img src="assets/1790668637191.jpeg" width="190" alt="Raghav Sharma"/>
 
 <br/><br/>
 
