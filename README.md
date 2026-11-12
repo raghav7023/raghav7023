@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td align="center" width="230">
-      <img src="assets/1790668637191.jpeg" width="180" alt="Raghav Sharma" />
+      <img src="assets/Gemini_Generated_Image_csxf05csxf05csxf.png" width="180" alt="Raghav Sharma" />
       <br/><br/>
       <a href="https://github.com/raghav7023"><img src="https://img.shields.io/badge/GitHub-0B0914?style=flat-square&logo=github&logoColor=38BDF8"/></a>
       <a href="https://linkedin.com/in/raghavsharma1708"><img src="https://img.shields.io/badge/LinkedIn-0B0914?style=flat-square&logo=linkedin&logoColor=E879F9"/></a>
