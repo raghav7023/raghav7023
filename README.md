@@ -1,4 +1,4 @@
-<!-- ==================== TOP CYBER WAVE HEADER ==================== -->
+
 <!-- ==================== NEON CYBERPUNK TOP BANNER ==================== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:FF0080,45:7928CA,100:00F7FF&section=header&text=%E2%9A%A1%20RAGHAV.DEV%20%E2%9A%A1&fontSize=48&fontColor=FFFFFF&fontAlignY=42&stroke=00F7FF&strokeWidth=2&animation=twinkling&desc=%3E%20BUILD%20%20%E2%80%A2%20%20BREAK%20%20%E2%80%A2%20%20LEARN%20%20%E2%80%A2%20%20SECURE%20%3C&descSize=15&descAlignY=66" width="100%" />
