@@ -135,6 +135,7 @@
         <img src="https://img.shields.io/badge/Razorpay-0B0914?style=flat-square&logo=razorpay&logoColor=38BDF8"/>
       </p>
       <a href="https://github.com/raghav7023/artstore-"><img src="https://img.shields.io/badge/View_Project_↗-A21CAF?style=for-the-badge"/></a>
+      <a href="https://artstore-by-raghav.vercel.app/"><img src="https://img.shields.io/badge/View_Project_↗-A21CAF?style=for-the-badge"/></a>
     </td>
     <td width="410" valign="top">
       <h3>🤖 AI Resume Builder &nbsp;<code>AI Powered</code></h3>
