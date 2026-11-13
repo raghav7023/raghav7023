@@ -134,7 +134,7 @@
         <img src="https://img.shields.io/badge/MongoDB-0B0914?style=flat-square&logo=mongodb&logoColor=34D399"/>
         <img src="https://img.shields.io/badge/Razorpay-0B0914?style=flat-square&logo=razorpay&logoColor=38BDF8"/>
       </p>
-      <a href="https://github.com/raghav7023"><img src="https://img.shields.io/badge/View_Project_↗-A21CAF?style=for-the-badge"/></a>
+      <a href="https://github.com/raghav7023/artstore-"><img src="https://img.shields.io/badge/View_Project_↗-A21CAF?style=for-the-badge"/></a>
     </td>
     <td width="410" valign="top">
       <h3>🤖 AI Resume Builder &nbsp;<code>AI Powered</code></h3>
@@ -153,7 +153,7 @@
         <img src="https://img.shields.io/badge/Gemini-0B0914?style=flat-square&logo=googlegemini&logoColor=E879F9"/>
         <img src="https://img.shields.io/badge/jsPDF-0B0914?style=flat-square&logo=adobeacrobatreader&logoColor=F472B6"/>
       </p>
-      <a href="https://github.com/raghav7023/artstore-"><img src="https://img.shields.io/badge/View_Project_↗-0284C7?style=for-the-badge"/></a>
+      <a href="https://github.com/raghav7023/"><img src="https://img.shields.io/badge/View_Project_↗-0284C7?style=for-the-badge"/></a>
     </td>
   </tr>
 </table>
