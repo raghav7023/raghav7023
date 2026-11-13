@@ -153,7 +153,7 @@
         <img src="https://img.shields.io/badge/Gemini-0B0914?style=flat-square&logo=googlegemini&logoColor=E879F9"/>
         <img src="https://img.shields.io/badge/jsPDF-0B0914?style=flat-square&logo=adobeacrobatreader&logoColor=F472B6"/>
       </p>
-      <a href="https://github.com/raghav7023"><img src="https://img.shields.io/badge/View_Project_↗-0284C7?style=for-the-badge"/></a>
+      <a href="https://github.com/raghav7023/artstore-"><img src="https://img.shields.io/badge/View_Project_↗-0284C7?style=for-the-badge"/></a>
     </td>
   </tr>
 </table>
